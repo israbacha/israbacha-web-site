@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>L'éducation</title>
+</head>
+<body>
+<h2><i>L'IMPORTANCE DE L'EDUCATION</i></h2>
+<font size="5" face="Times New Roman" color="black">
+  <p>
+    <i>L’éducation<br> est très importante pour chaque personne.
+    <u>D’abord,</u> elle permet d’apprendre à lire, écrire, compter et comprendre le monde.
+    <u>Ensuite,</u> <i>grâce à l’école, on peut avoir un bon travail plus tard. Puis,</i> l’éducation aide à vivre avec les autres et à respecter les règles.
+    <u>De plus,</u> elle donne les mêmes chances à tous, même si on vient d’un milieu pauvre.
+    <u>En outre,</u> quand les gens sont instruits, ils peuvent mieux aider leur pays.
+    Après cela, ils comprennent ce qui est bon ou mauvais pour la société.
+    <u>Par la suite,</u> sans éducation, il est <b>difficile de progresser dans la vie</b>.
+    Enfin, c’est pourquoi tous les enfants doivent aller à l’école. 
+    L’éducation est donc la clé d’un avenir meilleur.</i>
+  </p>
+</font>
+<img src="image.jpg" alt="مكتب" width="300" style="border: 1px solid black;">
+<h2><i>Les bienfaits des études</i></h2>
+<font size="5" face="Times New Roman" color="black">
+  <p>
+    <i>Les études jouent <u>un rôle très important dans la vie de chaque personne.</u>
+    Elles permettent d'acquérir des connaissances, <i>de développer l'esprit critique et de mieux comprendre le monde qui nous entoure.
+    Grâce à l'éducation, on peut choisir un bon métier à l'avenir et réaliser ses rêves. De plus,</i>
+    l'école enseigne des valeurs importantes comme le respect, la discipline et le travail en équipe.
+    En bref, étudier, c'est se préparer à devenir un bon citoyen et à construire un avenir meilleur.</i>
+  </p>
+</font>
+<table border="4">
+  <thead>
+    <tr>
+      <th>L'IMPORTANCE</th>
+      <th>Les bienfaits</th>
+      <th>Comment?</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>+ positive</td>
+      <td>+ positive</td>
+      <td>+ positive</td>
+    </tr>
+    <tr>
+      <td>+ 🌟</td>
+      <td>+ 🌟</td>
+	 <a href="https://dzexams.com/ar/1as" target="_blank">Go to Dzexams</a>
+	 </td>
+    </tr>
+  </tbody>
+</table>
+</body>
+</html>
